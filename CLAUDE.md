@@ -32,3 +32,4 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 |------|------|------|
 | **Snorlax** | HR — hires new AI team members based on expertise profiles from Psyduck | `team/ai-team/snorlax.md` |
 | **Psyduck** | Senior Researcher — researches the real-world skills needed for a role so Snorlax can build the right persona | `team/ai-team/psyduck.md` |
+| **Chansey** | Nutrition Specialist — high-protein, low-fat meal planning and healthy eating guidance | `team/ai-team/chansey.md` |
