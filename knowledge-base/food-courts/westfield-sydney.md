@@ -30,4 +30,4 @@
 
 ---
 
-*For full nutritional audits, see [[high-protein-dinner-near-apple-sydney]]*
+*For full nutritional audits, see [high-protein-dinner-near-apple-sydney](../high-protein-dinner-near-apple-sydney.md)*

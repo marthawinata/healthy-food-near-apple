@@ -13,10 +13,10 @@ Pick where you're headed, see what's available:
 
 | Food Court | Walk | Items | Best P:F Item |
 |---|---|---|---|
-| [[the-galeries\|The Galeries]] | ~2 min | 9 items | Sushi Hub Sashimi (16:1) |
-| [[westfield-sydney\|Westfield Sydney]] | ~3 min | 7 items | Mero Mero Salad (3:1) |
-| [[gateway-sydney\|Gateway Sydney]] | ~8 min | 7 items | Oporto Tenders (5.7:1) |
-| [[nearby-standalone\|Nearby Standalone]] | ~2 min | 1 item | Pokéd Poke Bowl (2.5:1) |
+| [The Galeries](food-courts/the-galeries.md) | ~2 min | 9 items | Sushi Hub Sashimi (16:1) |
+| [Westfield Sydney](food-courts/westfield-sydney.md) | ~3 min | 7 items | Mero Mero Salad (3:1) |
+| [Gateway Sydney](food-courts/gateway-sydney.md) | ~8 min | 7 items | Oporto Tenders (5.7:1) |
+| [Nearby Standalone](food-courts/nearby-standalone.md) | ~2 min | 1 item | Pokéd Poke Bowl (2.5:1) |
 
 ---
 
@@ -24,7 +24,7 @@ Pick where you're headed, see what's available:
 
 See all 22 items ranked by protein-to-fat ratio:
 
-**[[health-ranking|View Full Health Ranking]]**
+**[View Full Health Ranking](health-ranking.md)**
 
 ### Top 5 at a Glance
 
@@ -42,7 +42,7 @@ See all 22 items ranked by protein-to-fat ratio:
 
 Full nutritional breakdowns, ordering tips, and verdicts for all 22 items:
 
-**[[high-protein-dinner-near-apple-sydney|View All Detailed Audits]]**
+**[View All Detailed Audits](high-protein-dinner-near-apple-sydney.md)**
 
 ---
 

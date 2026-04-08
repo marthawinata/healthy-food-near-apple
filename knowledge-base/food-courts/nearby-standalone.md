@@ -19,4 +19,4 @@ Restaurants not inside a food court but within easy walking distance of Apple Sy
 
 ---
 
-*For full nutritional audits, see [[high-protein-dinner-near-apple-sydney]]*
+*For full nutritional audits, see [high-protein-dinner-near-apple-sydney](../high-protein-dinner-near-apple-sydney.md)*
