@@ -2,7 +2,7 @@
 
 **Location:** Apple Sydney, 367 George St, Sydney NSW 2000
 **Goal:** Increase muscle weight, reduce body fat percentage
-**Date researched:** 2026-04-08
+**Date researched:** 2026-05-19
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Top 22 Menu Recommendations
+## Top 25 Menu Recommendations
 
 ### 1. Hero Sushi — Salmon Sashimi (5 pcs)
 **Location:** Gateway Sydney food court
@@ -31,7 +31,46 @@
 
 ---
 
-### 2. Guzman y Gomez — Mild Grilled Chicken Burrito Bowl (no beans, no sour cream)
+### 2. GYG — Grilled Chicken Burrito Bowl (No Rice, No Cheese)
+**Location:** Westfield Sydney, Level 5 food court
+
+| Calories | Protein | Fat | Carbs |
+|---|---|---|---|
+| 277 kcal | 32g | 4g | 25g |
+
+**Audit:** The leanest GYG configuration. By removing rice and cheese from the standard burrito bowl, fat plummets to just 4g while retaining 32g protein. At only 277 kcal this is extremely calorie-efficient — 46% of calories come from protein. Ideal for aggressive fat-loss phases where every gram of fat matters. The remaining carbs come from beans, salsa, and lettuce.
+
+**Verdict: PASS** — Best protein-to-fat ratio of any GYG item (8:1). Top pick for strict cutting.
+
+---
+
+### 3. Nando's — Butterfly Chicken (Lemon & Herb)
+**Location:** Nando's Clarence St (155 Clarence St, ~3 min walk) or Nando's World Square (644 George St, ~8 min walk)
+
+| Calories | Protein | Fat | Carbs |
+|---|---|---|---|
+| 342 kcal | 59g | 11g | ~4g |
+
+**Audit:** One of the highest absolute protein counts on this entire list at 59g. Flame-grilled whole butterfly chicken breast — no batter, no deep frying. The Lemon & Herb basting has the lowest fat (11g); Medium spice is 12g fat; Extra Hot increases to 17g. At 342 kcal for 59g protein, this is extraordinarily efficient for muscle building. Virtually zero carbs. Pair with a corn on the cob side (low fat) instead of chips.
+
+**Verdict: PASS** — Elite protein density. 59g protein in a single meal at 5.4:1 P:F ratio.
+
+---
+
+### 4. Subway — Oven Roasted Chicken Protein Bowl
+**Location:** Subway, 310 George St (~1 min walk from Apple Store)
+
+| Calories | Protein | Fat | Carbs |
+|---|---|---|---|
+| 200 kcal | 27g | 6g | 11g |
+
+**Audit:** Extremely low calorie at just 200 kcal — the lowest on this list. The protein bowl removes the bread entirely, keeping carbs and fat minimal. 52% of calories come from protein. Load up on vegetables (spinach, tomato, capsicum, onion) for fibre and micronutrients at near-zero additional calories. Skip cheese and mayo. Use mustard or vinegar for dressing. High in sodium — offset with water intake.
+
+**Verdict: PASS** — Lowest calorie option with strong protein. Best for strict calorie-controlled cutting.
+
+---
+
+### 5. Guzman y Gomez — Mild Grilled Chicken Burrito Bowl (no beans, no sour cream)
 **Location:** Westfield Sydney, Level 5 food court
 
 | Calories | Protein | Fat | Carbs |
@@ -44,7 +83,7 @@
 
 ---
 
-### 3. Guzman y Gomez — Grilled Chicken Salad (Mild)
+### 6. Guzman y Gomez — Grilled Chicken Salad (Mild)
 **Location:** Westfield Sydney, Level 5 food court
 
 | Calories | Protein | Fat | Carbs |
@@ -57,7 +96,7 @@
 
 ---
 
-### 4. Grill'd — Zen Hen Chicken Burger (Panini Bun)
+### 7. Grill'd — Zen Hen Chicken Burger (Panini Bun)
 **Location:** The Galeries
 
 | Calories | Protein | Fat | Carbs |
@@ -70,7 +109,7 @@
 
 ---
 
-### 5. Soul Origin — Grilled Chicken Noodle Salad (Large)
+### 8. Soul Origin — Grilled Chicken Noodle Salad (Large)
 **Location:** Westfield Sydney food court
 
 | Calories | Protein | Fat | Carbs |
@@ -83,7 +122,7 @@
 
 ---
 
-### 6. Soul Origin — Chicken & Chorizo Salad (Large)
+### 9. Soul Origin — Chicken & Chorizo Salad (Large)
 **Location:** Westfield Sydney food court
 
 | Calories | Protein | Fat | Carbs |
@@ -96,7 +135,7 @@
 
 ---
 
-### 7. Roll'd — BBQ Chicken Rice Paper Rolls (4 rolls)
+### 10. Roll'd — BBQ Chicken Rice Paper Rolls (4 rolls)
 **Location:** Gateway Sydney food court
 
 | Calories | Protein | Fat | Carbs |
@@ -109,7 +148,7 @@
 
 ---
 
-### 8. Yayoi — Grilled Salmon Teriyaki Teishoku
+### 11. Yayoi — Grilled Salmon Teriyaki Teishoku
 **Location:** The Galeries (500 George St)
 
 | Calories | Protein | Fat | Carbs |
@@ -122,7 +161,7 @@
 
 ---
 
-### 9. Yayoi — Chicken Teriyaki Teishoku
+### 12. Yayoi — Chicken Teriyaki Teishoku
 **Location:** The Galeries (500 George St)
 
 | Calories | Protein | Fat | Carbs |
@@ -135,7 +174,7 @@
 
 ---
 
-### 10. Grill'd — Crispy Bacon & Cheese Chicken Burger on Low-Carb SuperBun
+### 13. Grill'd — Crispy Bacon & Cheese Chicken Burger on Low-Carb SuperBun
 **Location:** The Galeries
 
 | Calories | Protein | Fat | Carbs |
@@ -148,7 +187,7 @@
 
 ---
 
-### 11. Din Tai Fung — Steamed Chicken Dumplings (10 pcs)
+### 14. Din Tai Fung — Steamed Chicken Dumplings (10 pcs)
 **Location:** Gateway Sydney
 
 | Calories | Protein | Fat | Carbs |
@@ -161,7 +200,7 @@
 
 ---
 
-### 12. Chat Thai — Gai Yang (Thai Grilled Chicken) with Steamed Rice
+### 15. Chat Thai — Gai Yang (Thai Grilled Chicken) with Steamed Rice
 **Location:** The Galeries / Westfield Sydney
 
 | Calories | Protein | Fat | Carbs |
@@ -174,7 +213,7 @@
 
 ---
 
-### 13. Oporto — Grilled Chicken Tenders (6 pcs)
+### 16. Oporto — Grilled Chicken Tenders (6 pcs)
 **Location:** The Galeries / Gateway Sydney
 
 | Calories | Protein | Fat | Carbs |
@@ -187,7 +226,7 @@
 
 ---
 
-### 14. Sushi Hub — Assorted Sashimi Plate
+### 17. Sushi Hub — Assorted Sashimi Plate
 **Location:** The Galeries
 
 | Calories | Protein | Fat | Carbs |
@@ -200,7 +239,7 @@
 
 ---
 
-### 15. Mad Mex — Naked Chicken Burrito Bowl (customised lean)
+### 18. Mad Mex — Naked Chicken Burrito Bowl (customised lean)
 **Location:** Gateway Sydney food court
 
 | Calories | Protein | Fat | Carbs |
@@ -213,7 +252,7 @@
 
 ---
 
-### 16. Bekya — Chicken Shawarma Plate
+### 19. Bekya — Chicken Shawarma Plate
 **Location:** Gateway Sydney food court
 
 | Calories | Protein | Fat | Carbs |
@@ -226,7 +265,7 @@
 
 ---
 
-### 17. Pokéd — Custom Tuna Poke Bowl (Brown Rice Base)
+### 20. Pokéd — Custom Tuna Poke Bowl (Brown Rice Base)
 **Location:** 264 George St (Australia Square, ~2 min walk from Apple)
 
 | Calories | Protein | Fat | Carbs |
@@ -239,7 +278,7 @@
 
 ---
 
-### 18. Mero Mero — Build-Your-Own Grilled Chicken Salad
+### 21. Mero Mero — Build-Your-Own Grilled Chicken Salad
 **Location:** Westfield Sydney, Level 5
 
 | Calories | Protein | Fat | Carbs |
@@ -252,7 +291,7 @@
 
 ---
 
-### 19. Lotus — Steamed Fish Fillet with Ginger & Soy
+### 22. Lotus — Steamed Fish Fillet with Ginger & Soy
 **Location:** The Galeries, Level 1
 
 | Calories | Protein | Fat | Carbs |
@@ -265,7 +304,7 @@
 
 ---
 
-### 20. GYG — Soft Flour Grilled Chicken Tacos
+### 23. GYG — Soft Flour Grilled Chicken Tacos
 **Location:** Westfield Sydney, Level 5 food court
 
 | Calories | Protein | Fat | Carbs |
@@ -278,7 +317,7 @@
 
 ---
 
-### 21. Billu's Indian Street Food — Tandoori Chicken Tikka with Rice
+### 24. Billu's Indian Street Food — Tandoori Chicken Tikka with Rice
 **Location:** Gateway Sydney food court
 
 | Calories | Protein | Fat | Carbs |
@@ -291,7 +330,7 @@
 
 ---
 
-### 22. Oporto — Grilled Chicken Rappa (no mayo)
+### 25. Oporto — Grilled Chicken Rappa (no mayo)
 **Location:** The Galeries / Gateway Sydney
 
 | Calories | Protein | Fat | Carbs |
@@ -309,25 +348,28 @@
 | Rank | Item | Protein | Fat | P:F Ratio |
 |---|---|---|---|---|
 | 1 | Sushi Hub — Assorted Sashimi Plate | 32g | 2g | **16.0:1** |
-| 2 | Oporto — Grilled Chicken Tenders (6 pcs) | 43g | 7.5g | **5.7:1** |
-| 3 | Hero Sushi — Salmon Sashimi (10 pcs) | 43.2g | 11.8g | 3.7:1 |
-| 4 | Lotus — Steamed Fish w/ Ginger & Soy | ~38g | ~10g | 3.8:1 |
-| 5 | Mero Mero — Build-Your-Own Chicken Salad | ~30g | ~10g | 3.0:1 |
-| 6 | Billu's — Tandoori Chicken Tikka + Rice | ~35g | ~12g | 2.9:1 |
-| 7 | Soul Origin — Grilled Chicken Noodle Salad (L) | 36g | 13.1g | 2.7:1 |
-| 8 | Grill'd — Zen Hen (Panini) | 45g | 17.1g | 2.6:1 |
-| 9 | Chat Thai — Gai Yang + Steamed Rice | ~38g | ~15g | 2.5:1 |
-| 10 | Pokéd — Custom Tuna Poke Bowl | ~33g | ~13g | 2.5:1 |
-| 11 | GYG — Grilled Chicken Salad | 27g | 12g | 2.3:1 |
-| 12 | GYG — Grilled Chicken Bowl (no beans) | 35g | 15g | 2.3:1 |
-| 13 | Bekya — Chicken Shawarma Plate | ~44g | ~20g | 2.2:1 |
-| 14 | Soul Origin — Chicken & Chorizo Salad (L) | 33g | 15.8g | 2.1:1 |
-| 15 | Yayoi — Grilled Salmon Teishoku | ~35g | ~17g | 2.1:1 |
-| 16 | Din Tai Fung — Steamed Chicken Dumplings (10) | ~36g | ~18g | 2.0:1 |
-| 17 | GYG — Soft Flour Grilled Chicken Tacos | 46g | 24.3g | 1.9:1 |
-| 18 | Yayoi — Chicken Teriyaki Teishoku | ~38g | ~20g | 1.9:1 |
-| 19 | Oporto — Grilled Chicken Rappa (no mayo) | 31g | ~13g | 2.4:1 |
-| 20 | Mad Mex — Naked Bowl (customised lean) | ~35g | ~15g | 2.3:1 |
+| 2 | GYG — Grilled Chicken Bowl (No Rice, No Cheese) | 32g | 4g | **8.0:1** |
+| 3 | Oporto — Grilled Chicken Tenders (6 pcs) | 43g | 7.5g | **5.7:1** |
+| 4 | Nando's — Butterfly Chicken (Lemon & Herb) | 59g | 11g | **5.4:1** |
+| 5 | Subway — Oven Roasted Chicken Protein Bowl | 27g | 6g | **4.5:1** |
+| 6 | Lotus — Steamed Fish w/ Ginger & Soy | ~38g | ~10g | 3.8:1 |
+| 7 | Hero Sushi — Salmon Sashimi (10 pcs) | 43.2g | 11.8g | 3.7:1 |
+| 8 | Mero Mero — Build-Your-Own Chicken Salad | ~30g | ~10g | 3.0:1 |
+| 9 | Billu's — Tandoori Chicken Tikka + Rice | ~35g | ~12g | 2.9:1 |
+| 10 | Soul Origin — Grilled Chicken Noodle Salad (L) | 36g | 13.1g | 2.7:1 |
+| 11 | Grill'd — Zen Hen (Panini) | 45g | 17.1g | 2.6:1 |
+| 12 | Chat Thai — Gai Yang + Steamed Rice | ~38g | ~15g | 2.5:1 |
+| 13 | Pokéd — Custom Tuna Poke Bowl | ~33g | ~13g | 2.5:1 |
+| 14 | Oporto — Grilled Chicken Rappa (no mayo) | 31g | ~13g | 2.4:1 |
+| 15 | GYG — Grilled Chicken Salad | 27g | 12g | 2.3:1 |
+| 16 | GYG — Grilled Chicken Bowl (no beans) | 35g | 15g | 2.3:1 |
+| 17 | Mad Mex — Naked Bowl (customised lean) | ~35g | ~15g | 2.3:1 |
+| 18 | Bekya — Chicken Shawarma Plate | ~44g | ~20g | 2.2:1 |
+| 19 | Soul Origin — Chicken & Chorizo Salad (L) | 33g | 15.8g | 2.1:1 |
+| 20 | Yayoi — Grilled Salmon Teishoku | ~35g | ~17g | 2.1:1 |
+| 21 | Din Tai Fung — Steamed Chicken Dumplings (10) | ~36g | ~18g | 2.0:1 |
+| 22 | GYG — Soft Flour Grilled Chicken Tacos | 46g | 24.3g | 1.9:1 |
+| 23 | Yayoi — Chicken Teriyaki Teishoku | ~38g | ~20g | 1.9:1 |
 
 ---
 
@@ -344,4 +386,4 @@
 
 *Sources: Nutritional data sourced from FatSecret Australia, CalorieKing Australia, MyNetDiary, Fitia, SnapCalorie, and restaurant-published nutrition guides. Estimated values (marked "est.") are based on typical preparation methods and standard serving sizes. Always check with the restaurant for the most current nutritional information.*
 
-*Additional sources for items 13–22: [Oporto Nutrition & Allergen](https://www.oporto.com.au/nutrition-and-allergen/), [Sushi Hub Products (FatSecret)](https://www.fatsecret.com.au/calories-nutrition/sushi-hub), [Sushi Hub Assorted Sashimi (Fitia)](https://fitia.app/calories-nutritional-information/assorted-sashimi-23031828/), [Mad Mex Nutritional Calculator](https://www.madmex.com.au/nutritioncalculator/), [Bekya Menu](http://bekya.com.au/menu-gateway/), [Lotus The Galeries](https://lotusdininggroup.com/the-galeries/), [Mero Mero (Pitt St Mall)](https://www.pittstreetmall.com.au/shop/mero-mero.html), [Pokéd Sydney (Man of Many)](https://manofmany.com/culture/food/best-poke-bowls-sydney), [Tandoori Chicken Nutrition (NutriScan)](https://nutriscan.app/calories-nutrition/tandoori-chicken)*
+*Additional sources: [Oporto Nutrition & Allergen](https://www.oporto.com.au/nutrition-and-allergen/), [Sushi Hub Products (FatSecret)](https://www.fatsecret.com.au/calories-nutrition/sushi-hub), [Sushi Hub Assorted Sashimi (Fitia)](https://fitia.app/calories-nutritional-information/assorted-sashimi-23031828/), [Mad Mex Nutritional Calculator](https://www.madmex.com.au/nutritioncalculator/), [Bekya Menu](http://bekya.com.au/menu-gateway/), [Lotus The Galeries](https://lotusdininggroup.com/the-galeries/), [Mero Mero (Pitt St Mall)](https://www.pittstreetmall.com.au/shop/mero-mero.html), [Pokéd Sydney (Man of Many)](https://manofmany.com/culture/food/best-poke-bowls-sydney), [Tandoori Chicken Nutrition (NutriScan)](https://nutriscan.app/calories-nutrition/tandoori-chicken), [Nando's Butterfly Chicken (Eat This Much)](https://www.eatthismuch.com/calories/butterfly-chicken-193545), [Nando's Butterfly Lemon & Herb (Carb Manager)](https://www.carbmanager.com/food-detail/md:a6619840862ea8b78e5d570914f534d4/chicken-butterfly-lemon-herb), [Subway Australia Nutrition (Oct 2025)](https://www.subway.com/~/media/australia/documents/nutritionals/aus-nutritional-summary), [Subway Oven Roasted Chicken Protein Bowl (FatSecret)](https://mobile.fatsecret.com/calories-nutrition/subway/oven-roasted-chicken-protein-bowl), [GYG Chicken Burrito Bowl No Rice No Cheese (Carb Manager)](https://www.carbmanager.com/food-detail/md:e4e719ac4a367ed0831c6d815580f5dd/chicken-burrito-bowl-no-rice-no-cheese)*

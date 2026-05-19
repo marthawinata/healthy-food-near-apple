@@ -1,6 +1,6 @@
 # High-Protein Food Guide — Near Apple Sydney
 
-A curated knowledge base of **22 audited dinner options** optimised for high protein and low fat, all within walking distance of Apple Sydney (367 George St).
+A curated knowledge base of **25 audited dinner options** optimised for high protein and low fat, all within walking distance of Apple Sydney (367 George St).
 
 ## Goal
 
@@ -8,7 +8,7 @@ Increase muscle weight and reduce body fat percentage by choosing the best avail
 
 ## What's Inside
 
-- **Detailed nutritional audits** for 22 menu items across 14 restaurants
+- **Detailed nutritional audits** for 25 menu items across 16 restaurants
 - **Protein-to-fat ratio rankings** organised into Elite, Strong, and Good tiers
 - **Ordering tips** to customise meals for better macros
 - **Food court guides** for quick decisions on the go
@@ -18,19 +18,19 @@ Increase muscle weight and reduce body fat percentage by choosing the best avail
 | Food Court | Walk from Apple | Items |
 |---|---|---|
 | The Galeries | ~2 min | 9 |
-| Westfield Sydney | ~3 min | 7 |
+| Westfield Sydney | ~3 min | 8 |
 | Gateway Sydney | ~8 min | 7 |
-| Nearby Standalone | ~2 min | 1 |
+| Nearby Standalone | ~1-3 min | 3 |
 
 ### Top 5 by Protein-to-Fat Ratio
 
 | Rank | Item | P:F Ratio |
 |---|---|---|
 | 1 | Sushi Hub — Assorted Sashimi | 16.0:1 |
-| 2 | Oporto — Grilled Chicken Tenders | 5.7:1 |
-| 3 | Lotus — Steamed Fish w/ Ginger & Soy | 3.8:1 |
-| 4 | Hero Sushi — Salmon Sashimi (10 pcs) | 3.7:1 |
-| 5 | Mero Mero — Chicken Salad | 3.0:1 |
+| 2 | GYG — Chicken Bowl (No Rice, No Cheese) | 8.0:1 |
+| 3 | Oporto — Grilled Chicken Tenders | 5.7:1 |
+| 4 | Nando's — Butterfly Chicken (L&H) | 5.4:1 |
+| 5 | Subway — Chicken Protein Bowl | 4.5:1 |
 
 ## Structure
 
@@ -59,4 +59,4 @@ Nutritional data sourced from FatSecret Australia, CalorieKing Australia, MyNetD
 
 ---
 
-*Last updated: 2026-04-08*
+*Last updated: 2026-05-19*
